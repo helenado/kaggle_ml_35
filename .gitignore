@@ -22,7 +22,9 @@ var/
 wheels/
 *.egg-info/
 .installed.cfg
+.DS_Store
 *.egg
+.ipynb_checkpoints
 MANIFEST
 
 # PyInstaller
